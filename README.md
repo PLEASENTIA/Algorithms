@@ -1,10 +1,10 @@
-#Algorithms in C and JAVA.
+# Algorithms in C and JAVA.
 ## [WIP]
 
-##Programs in JAVA
+## Programs in JAVA
 1) BubbleSort
 
-##Programs in C
+## Programs in C
 1) SelectionSort(without shifting of positions but direct swapping)
 2) ActualSelectionSort(with all the shifting instead of direct swapping)
 3) BubbleSort
